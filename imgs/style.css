@@ -10,7 +10,7 @@ img{
     border-radius: 50%; 
 }
 :root {
-    --primary-color: #ff7613;
+    --primary-color: hwb(25 7% 0%);
     --text-color: #727171;
 }
 html{
