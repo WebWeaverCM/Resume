@@ -6,12 +6,11 @@
     box-sizing: border-box;
 }
 img{
-    height: 200px;
-    width: 200px;
+    
     border-radius: 50%; 
 }
 :root {
-    --primary-color: #ff7613;
+    --primary-color: hwb(25 7% 0%);
     --text-color: #727171;
 }
 html{
